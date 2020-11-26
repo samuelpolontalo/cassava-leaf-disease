@@ -12,6 +12,7 @@ Your task is to classify each cassava image into four disease categories or a fi
 
 ## data set
 https://www.kaggle.com/c/cassava-leaf-disease-classification
+<img src="readme-images/result.png" width=700>
 
 ## objective
 identify a problem with a cassava plant using a photo from a relatively inexpensive camera
